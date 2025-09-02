@@ -1,4 +1,7 @@
 # juejin-checkIn
+update ci runner:2025-9-2
+stop:2025-11-1
+
 **使用前请先删除config文件夹下的内容！！！**  
 **使用前请先删除config文件夹下的内容！！！**  
 **使用前请先删除config文件夹下的内容！！！**
