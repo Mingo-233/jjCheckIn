@@ -1,6 +1,8 @@
 # juejin-checkIn
 update ci runner:2025-9-2
 stop:2025-11-1
+update md 2025-10-20
+stop: 2025-12-20
 
 **使用前请先删除config文件夹下的内容！！！**  
 **使用前请先删除config文件夹下的内容！！！**  
